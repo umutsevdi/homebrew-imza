@@ -1,6 +1,6 @@
 cask "imza" do
-  version "0.7.2"
-  sha256 "429f25bb2527de213d6310e7772c2a2c37c43c64ea985d42ebaa29a98a8830db"
+  version "0.7.3"
+  sha256 "c00dc15017a02aca663e4bb1fc94e790ed563ec3aa53188e406f48da37636a28"
 
   url "https://github.com/umutsevdi/imza/releases/download/v#{version}/imza-#{version}-macos-arm64.pkg",
       verified: "github.com/umutsevdi/imza/"
